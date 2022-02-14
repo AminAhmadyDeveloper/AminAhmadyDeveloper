@@ -38,3 +38,39 @@
 
 <br />
 <br />
+
+---
+
+### 📺 &ensp;Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [Flutter Tutorial - DRAG and DROP [2022] Draggable](https://www.youtube.com/watch?v=T1dkg89J2ac)
+- [Flutter Tutorial - Nested ListViews And Columns [2022]](https://www.youtube.com/watch?v=ZpHuAbYWL3w)
+- [Flutter Tutorial - Markdown Widget [2022]](https://www.youtube.com/watch?v=bNnjf2b3vSk)
+- [Flutter Tutorial - Unique Identifier Generator [2022] UUID Package](https://www.youtube.com/watch?v=SBFCw0tnwxE)
+- [Flutter Tutorial - FittedBox Widget [2022]](https://www.youtube.com/watch?v=WpTMNArnXdc)
+<!-- YOUTUBE:END -->
+
+➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
+
+---
+
+### 📚 &ensp;Latest Medium Articles
+
+<!-- BLOG-POST-LIST:START -->
+- [Chip widget: Material Design with Flutter](https://medium.com/flutter-community/chip-widget-material-design-with-flutter-4a834553c9ab?source=rss-1d0dd7b62afc------2)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ &ensp;[More Articles...](https://medium.com/@JohannesMilke)
+
+
+
+[website]: https://johannesmilke.com
+[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJohannesMilke&screen_name=JohannesMilke
+[youtube]: https://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA?sub_confirmation=1
+[linkedin]: https://linkedin.com/in/JohannesMilke
+[github]: https://github.com/JohannesMilke
+[instagram]: https://www.instagram.com/johannesmilke
+[facebook]: https://www.facebook.com/real.JohannesMilke
+[medium]: https://medium.com/@JohannesMilke
+[email]: mailto:hello@johannesmilke.com
