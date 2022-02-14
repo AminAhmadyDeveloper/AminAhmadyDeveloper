@@ -2,7 +2,7 @@
 <h3 align="center">A Flutter programmer who keeps you alive 😜</h3>
 
 
-- 🔭 &ensp;I’m currently working on [**Bizim Consulting AB**]["http://www.bizimconsulting.se/"]!
+- 🔭 &ensp;I’m currently working on <a href="http://www.bizimconsulting.se/">Bizim Consulting AB</a>
 - 🌱 &ensp;I’m currently learning Flutter ❤️
 - 👯 &ensp;I’m looking to collaborate with other content creators
 - 🗿 &ensp;I am one of the early adopters of Flutter, it has been more than 4 years
