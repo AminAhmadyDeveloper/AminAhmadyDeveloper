@@ -3,12 +3,12 @@
 
 
 - 🔭 &ensp;I’m currently working on <a href="http://www.bizimconsulting.se/">Bizim Consulting AB</a>
-- 🌱 &ensp;I’m currently learning Flutter ❤️
-- 👯 &ensp;I’m looking to collaborate with other content creators
-- 🗿 &ensp;I am one of the early adopters of Flutter, it has been more than 4 years
+- 🌱 &ensp;I’m currently learning And Programming Flutter ❤️
+- 👯 &ensp;I’m looking to collaborate with sweden companies
+- 🗿 &ensp;I amexperiesed in JAVA and Kotlin for Android programming
 - ⚡ &ensp;Fun fact: I love reading & podcasts
-- 📫 &ensp;How to reach me: [**Twitter**][twitter] or [**Email**][email]
-
+- 📫 &ensp;How to reach me: <a href="https://twitter.com/AminAhmadydev">TWITTER</a> or <a href="mailto:aminahmadydeveloper@gmail.com">EMAIL</a>
+<!--
 ### Connect With Me
 
 [<img align="left" alt="Johannes Milke | Website" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />][website]
@@ -70,3 +70,5 @@
 [facebook]: https://www.facebook.com/real.JohannesMilke
 [medium]: https://medium.com/@JohannesMilke
 [email]: mailto:hello@johannesmilke.com
+
+-->
