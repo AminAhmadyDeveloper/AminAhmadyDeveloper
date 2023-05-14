@@ -56,9 +56,9 @@
 </div>
 
 ###
-
+<div align="center">
 <a href="http://www.coffeete.ir/aminahmadydeveloper">
        <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
 </a>
-
+</div>
 ###
