@@ -57,11 +57,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/AminAhmadyDeveloper/AminAhmadyDeveloper/blob/output/snake.svg" alt="Snake animation" />
-
-###
 <a href="http://www.coffeete.ir/aminahmadydeveloper">
        <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
 </a>
+
+###
