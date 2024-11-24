@@ -1,8 +1,9 @@
 # 💫 About Me:
 ### 👋 About Me
-Hi there! I'm a **TypeScript developer** passionate about building clean, scalable, and efficient web applications. I focus on **modern frameworks** like **React**, **Next.js**, and **Vite**, with an emphasis on type-safe, maintainable code.
+Hi there! I'm a **TypeScript developer** passionate about building clean, scalable, and efficient web applications. I focus on **modern frameworks** like **React**, **Next.js**, **Drizlle ORM**, **TRPC**, and **Vite**, with an emphasis on type-safe, maintainable code.
 
 ### 🚀 Current Project
+🔗 [**Melketabriz**](https://melketabriz.com/): Melk e Tabriz is a Tabriz-based real estate platform specializing in property listings and real estate consulting.
 🔗 [**Podbox**](https://podbox-ochre.vercel.app/): A platform to explore and organize podcasts effectively.
 
 ### 🌱 Learning
